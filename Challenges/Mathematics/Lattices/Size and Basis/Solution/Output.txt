@@ -1,0 +1,1 @@
+The size of the vector is: 9.0
