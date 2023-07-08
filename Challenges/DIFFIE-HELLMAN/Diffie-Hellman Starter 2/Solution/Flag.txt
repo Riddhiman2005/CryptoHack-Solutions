@@ -1,0 +1,1 @@
+Smallest primitive element of Fp: 7
